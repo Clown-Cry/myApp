@@ -7,7 +7,9 @@ echarts
 
 ```
 # 页面展示
+![](https://i.imgur.com/tN2UG58.png)
 <img src="https://github.com/Clown-Cry/myApp/raw/master/src/images/1.png"><img src="src/images/2.png">
+![44](https://i.imgur.com/H2GB2it.png)
 <img src="src/images/3.png"><img src="src/images/4.png">
 
 # ln-app
