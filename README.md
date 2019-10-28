@@ -7,7 +7,7 @@ echarts
 
 ```
 # 页面展示
-<img src="src/images/1.png"><img src="src/images/2.png">
+<img src="https://github.com/Clown-Cry/myApp/raw/master/src/images/1.png"><img src="src/images/2.png">
 <img src="src/images/3.png"><img src="src/images/4.png">
 
 # ln-app
