@@ -7,8 +7,10 @@ echarts
 
 ```
 # 页面展示
-![](https://i.imgur.com/tN2UG58.png)![](https://i.imgur.com/pQkfNdL.png)
+![](https://i.imgur.com/tN2UG58.png)![](https://i.imgur.com/oGyImn4.png)
+![](https://i.imgur.com/pQkfNdL.png)
 ![](https://i.imgur.com/j5NeHIs.png)![](https://i.imgur.com/E5PTSBE.png)
+![](https://i.imgur.com/ZmTzEiW.png)
 
 # ln-app
 
